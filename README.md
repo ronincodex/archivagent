@@ -39,24 +39,5 @@ Step 3: Run the ingestion pipeline
 
 ---
 
-### Phase 2: How to push it back to GitHub
-
-To update the file on your local machine and sync it to your remote GitHub repository, run these commands in your terminal one by one:
-
-#### Step 1: Navigate to your project directory
-```bash
-cd ~/projects/archivagent
-Bash:
-python -m src.archivagent.ingestion.pipel
----
-
-### Phase 2: How to push it back to GitHub
-
-To update the file on your local machine and sync it to your remote GitHub repository, run these commands in your terminal one by one:
-
-#### Step 1: Navigate to your project directory
-```bash
-cd ~/projects/archivagent
-
 
 
